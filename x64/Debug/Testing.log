@@ -1,0 +1,8 @@
+﻿  app.cpp
+C:\Users\ACER\OneDrive - Universiti Tunku Abdul Rahman\Desktop\Testing\Testing\app.cpp(666,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\OneDrive - Universiti Tunku Abdul Rahman\Desktop\Testing\Testing\app.cpp(681,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\OneDrive - Universiti Tunku Abdul Rahman\Desktop\Testing\Testing\app.cpp(696,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\OneDrive - Universiti Tunku Abdul Rahman\Desktop\Testing\Testing\app.cpp(711,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\OneDrive - Universiti Tunku Abdul Rahman\Desktop\Testing\Testing\app.cpp(726,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\OneDrive - Universiti Tunku Abdul Rahman\Desktop\Testing\Testing\app.cpp(641,1): warning C4715: 'Display': not all control paths return a value
+  Testing.vcxproj -> C:\Users\ACER\OneDrive - Universiti Tunku Abdul Rahman\Desktop\Testing\x64\Debug\Testing.exe
