@@ -1,5 +1,7 @@
 # Library_Management_System
 
+***Credit to: Khoo Zi Yi (Me), Ng Yi Hong***
+
 In this project, a program that will store and manage FICT student information and the books they borrow from library is developed using linked list. Three classes have been created which are **LibStudent class, LibBook class and Date class**. LibStudent class is used to store student information and the book they borrow from library. LibBook class is used to store information for a library book. Lastly, the Date struct is used to store date information.
 
 
